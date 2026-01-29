@@ -1,8 +1,8 @@
 package model
 
 import {
-	"errors",
-	"string",
+	"errors"
+	"string"
 	"time"
 }
 
