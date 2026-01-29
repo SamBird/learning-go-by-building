@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/<your-github-username>/learning-go-by-building/internal/handler"
+	"github.com/SamBird/learning-go-by-building/internal/handler"
 )
 
 func main() {
