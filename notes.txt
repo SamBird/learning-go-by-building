@@ -1,0 +1,11 @@
+1) & and * symbols are about memory and ownership 
+2) & asks for an 'object'/value/struct to be created, returning the pointer to it 
+3) & is the address operator used to get the memory address of a variable
+4) * is the defrerencing operator, used for both declaration and access/modification at a pointer's memory address.
+5) Data does not need to be copied to methods/functions, which improves performance and memory efficiency. 
+6) Read up on automatic defrerencing
+7) &value      → address of value, *Type       → pointer to Type, *ptr        → value at pointer
+8) The http.ServeMux is Go's built-in HTTP request multiplexer (or router) found in the standard library's net/http package. It matches incoming HTTP request URLs against a list of registered patterns and calls the appropriate http.Handler for the most closely matching pattern. 
+9) The Go community values short, concise functions, which naturally leads to the use of shorter variable names within those limited scopes. 
+10) https://go.dev/doc/effective_go
+11) 
