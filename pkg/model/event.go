@@ -1,10 +1,10 @@
 package model
 
-import {
+import (
 	"errors"
 	"strings"
 	"time"
-}
+)
 
 // Event is the inbound unit of data we're ingesting.
 // Notes to self:
